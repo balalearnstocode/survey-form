@@ -1,0 +1,16 @@
+#title, #description, #source-code {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#survey-form {
+    width: 500px;
+    margin: 0 auto;
+}
+.form-label {
+    display: block;
+    padding: 12px 0 4px;
+}
+#submit {
+    display: block;
+    margin-top: 12px;
+}
